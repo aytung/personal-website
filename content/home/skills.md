@@ -29,8 +29,10 @@ subtitle = ""
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Filmography"
   description = "10%"
+  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
