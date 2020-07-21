@@ -19,7 +19,7 @@ role: Tutor
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: albertytung@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AdelbrechtTung
