@@ -36,7 +36,7 @@ user_groups:
 - Visitors
 ---
 
-Currently a postgraduate student and tutor at Pasadena City College being mentored by Charles Finney. Taking courses related to microcontrollers/electrical engineering and plugging into the maker community.
+Currently a student and tutor at Pasadena City College being mentored by Charles Finney. Taking courses related to microcontrollers/electrical engineering and plugging into the maker community.
 
 Previously a visiting researcher at Harvard University and Oak Ridge National Laboratory.
 
